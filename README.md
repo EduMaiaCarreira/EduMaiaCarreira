@@ -1,8 +1,5 @@
 # Olá! Eu sou Eduardo 👋
 
-## 🚀 Sobre mim
-Atualmente sou **Operador de Logística I** na JSL (planta Cummins), mas estou em transição para a área de **Ciência de Dados**. Meu objetivo é me tornar um **Analista de Dados**, e para isso, estou me dedicando ao estudo de **Excel, Power BI, SQL e Python**, buscando adquirir as habilidades necessárias para avançar na minha carreira. Além disso, tenho grande interesse em **automação com IA** para otimizar processos e aumentar a eficiência.
-
 ## 🎯 Objetivos de Carreira
 - Me tornar **Analista de Dados**.
 - Aprender e aplicar técnicas de **Big Data** e **Ciência de Dados**.
